@@ -11,7 +11,7 @@
 
 # COMMAND ----------
 
-model_name = "ml-model-demo"
+model_name = "jai-ml-model-demo"
 env = 'dev'
 experiment_id = env_experiment_id_dict['dev']
 
