@@ -1,5 +1,5 @@
 variables:
-  DATABRICKS_HOST: https://adb-998485806724403.3.azuredatabricks.net/browse/folders/192303097515978
+  DATABRICKS_HOST: https://adb-998485806724403.3.azuredatabricks.net
 
 
 trigger:
